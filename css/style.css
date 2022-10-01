@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: wheat;
+    font-family: cursive;
+    text-transform: uppercase;
+}
